@@ -7,7 +7,6 @@
 //
 
 import UIKit
-
 class ViewController: UIViewController,UITextFieldDelegate {
     @IBOutlet weak var text: UITextField!
     @IBAction func cancel(_ sender: Any) {
